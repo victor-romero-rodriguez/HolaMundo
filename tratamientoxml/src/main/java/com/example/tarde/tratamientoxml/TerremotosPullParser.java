@@ -41,7 +41,7 @@ public class TerremotosPullParser {
 
                     if (tag.equals("entry")) {
                         terremoto = new Terremoto();
-                    } else if (tag.equals("entry") && terremoto != null) {
+                    } else if (tag.equals("id") && terremoto != null) {
                         terremoto.setId(xmlPullParser.nextText());
                     } else if (tag.equals("title") && terremoto != null) {
                         String titulo = (xmlPullParser.nextText());
