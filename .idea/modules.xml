@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapters/adapters.iml" filepath="$PROJECT_DIR$/adapters/adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager/alarmmanager.iml" filepath="$PROJECT_DIR$/alarmmanager/alarmmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basededatos/basededatos.iml" filepath="$PROJECT_DIR$/basededatos/basededatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentresolver-clientecontentprovider/contentresolver-clientecontentprovider.iml" filepath="$PROJECT_DIR$/contentresolver-clientecontentprovider/contentresolver-clientecontentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogos/dialogos.iml" filepath="$PROJECT_DIR$/dialogos/dialogos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentos/fragmentos.iml" filepath="$PROJECT_DIR$/fragmentos/fragmentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentosdinamico/fragmentosdinamico.iml" filepath="$PROJECT_DIR$/fragmentosdinamico/fragmentosdinamico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menucontextual/menucontextual.iml" filepath="$PROJECT_DIR$/menucontextual/menucontextual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/noticiasutils/noticiasutils.iml" filepath="$PROJECT_DIR$/noticiasutils/noticiasutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificaciones/notificaciones.iml" filepath="$PROJECT_DIR$/notificaciones/notificaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensores/sensores.iml" filepath="$PROJECT_DIR$/sensores/sensores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviciolocal/serviciolocal.iml" filepath="$PROJECT_DIR$/serviciolocal/serviciolocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicioremoto/servicioremoto.iml" filepath="$PROJECT_DIR$/servicioremoto/servicioremoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicioremotocliente/servicioremotocliente.iml" filepath="$PROJECT_DIR$/servicioremotocliente/servicioremotocliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" filepath="$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tratamientoxml/tratamientoxml.iml" filepath="$PROJECT_DIR$/tratamientoxml/tratamientoxml.iml" />
+    </modules>
+  </component>
+</project>
+

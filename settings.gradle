@@ -1,0 +1,1 @@
+include ':app', ':sharedpreferences', ':fragmentos', ':adapters', ':fragmentosdinamico', ':dialogos', ':asynctask', ':serviciolocal', ':servicioremoto', ':servicioremotocliente', ':menucontextual', ':intentservice', ':tratamientoxml', ':basededatos', ':contentprovider', ':contentresolver-clientecontentprovider', ':noticiasutils', ':notificaciones', ':alarmmanager', ':sensores'
