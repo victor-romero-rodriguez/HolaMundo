@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/notificacion_bigPicture" android:title="Big Picture"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/notificacion_Progress" android:title="Progress"
+        android:orderInCategory="200" app:showAsAction="never" />
+
+    <item android:id="@+id/notificacion_cancel_progress" android:title="Cancel"
+        android:orderInCategory="300" app:showAsAction="never" />
+</menu>
