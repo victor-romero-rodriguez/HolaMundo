@@ -19,7 +19,9 @@
             <option value="$PROJECT_DIR$/dialogos" />
             <option value="$PROJECT_DIR$/fragmentos" />
             <option value="$PROJECT_DIR$/fragmentosdinamico" />
+            <option value="$PROJECT_DIR$/googlemaps" />
             <option value="$PROJECT_DIR$/intentservice" />
+            <option value="$PROJECT_DIR$/localizacion" />
             <option value="$PROJECT_DIR$/menucontextual" />
             <option value="$PROJECT_DIR$/noticiasutils" />
             <option value="$PROJECT_DIR$/notificaciones" />
@@ -29,6 +31,7 @@
             <option value="$PROJECT_DIR$/servicioremotocliente" />
             <option value="$PROJECT_DIR$/sharedpreferences" />
             <option value="$PROJECT_DIR$/tratamientoxml" />
+            <option value="$PROJECT_DIR$/vibrador" />
           </set>
         </option>
       </GradleProjectSettings>

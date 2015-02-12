@@ -13,7 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/dialogos/dialogos.iml" filepath="$PROJECT_DIR$/dialogos/dialogos.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentos/fragmentos.iml" filepath="$PROJECT_DIR$/fragmentos/fragmentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentosdinamico/fragmentosdinamico.iml" filepath="$PROJECT_DIR$/fragmentosdinamico/fragmentosdinamico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlemaps/googlemaps.iml" filepath="$PROJECT_DIR$/googlemaps/googlemaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localizacion/localizacion.iml" filepath="$PROJECT_DIR$/localizacion/localizacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/menucontextual/menucontextual.iml" filepath="$PROJECT_DIR$/menucontextual/menucontextual.iml" />
       <module fileurl="file://$PROJECT_DIR$/noticiasutils/noticiasutils.iml" filepath="$PROJECT_DIR$/noticiasutils/noticiasutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificaciones/notificaciones.iml" filepath="$PROJECT_DIR$/notificaciones/notificaciones.iml" />
@@ -23,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/servicioremotocliente/servicioremotocliente.iml" filepath="$PROJECT_DIR$/servicioremotocliente/servicioremotocliente.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" filepath="$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/tratamientoxml/tratamientoxml.iml" filepath="$PROJECT_DIR$/tratamientoxml/tratamientoxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vibrador/vibrador.iml" filepath="$PROJECT_DIR$/vibrador/vibrador.iml" />
     </modules>
   </component>
 </project>
