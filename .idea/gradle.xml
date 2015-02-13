@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/dialogos" />
             <option value="$PROJECT_DIR$/fragmentos" />
             <option value="$PROJECT_DIR$/fragmentosdinamico" />
+            <option value="$PROJECT_DIR$/gestos" />
             <option value="$PROJECT_DIR$/googlemaps" />
             <option value="$PROJECT_DIR$/intentservice" />
             <option value="$PROJECT_DIR$/localizacion" />
@@ -32,6 +33,7 @@
             <option value="$PROJECT_DIR$/sharedpreferences" />
             <option value="$PROJECT_DIR$/tratamientoxml" />
             <option value="$PROJECT_DIR$/vibrador" />
+            <option value="$PROJECT_DIR$/widget" />
           </set>
         </option>
       </GradleProjectSettings>

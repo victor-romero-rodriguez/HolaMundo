@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/dialogos/dialogos.iml" filepath="$PROJECT_DIR$/dialogos/dialogos.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentos/fragmentos.iml" filepath="$PROJECT_DIR$/fragmentos/fragmentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentosdinamico/fragmentosdinamico.iml" filepath="$PROJECT_DIR$/fragmentosdinamico/fragmentosdinamico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestos/gestos.iml" filepath="$PROJECT_DIR$/gestos/gestos.iml" />
       <module fileurl="file://$PROJECT_DIR$/googlemaps/googlemaps.iml" filepath="$PROJECT_DIR$/googlemaps/googlemaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/localizacion/localizacion.iml" filepath="$PROJECT_DIR$/localizacion/localizacion.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" filepath="$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/tratamientoxml/tratamientoxml.iml" filepath="$PROJECT_DIR$/tratamientoxml/tratamientoxml.iml" />
       <module fileurl="file://$PROJECT_DIR$/vibrador/vibrador.iml" filepath="$PROJECT_DIR$/vibrador/vibrador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widget/widget.iml" filepath="$PROJECT_DIR$/widget/widget.iml" />
     </modules>
   </component>
 </project>
